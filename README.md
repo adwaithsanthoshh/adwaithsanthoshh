@@ -61,7 +61,7 @@ Currently diving deep into electronics, AI tools, and web development while buil
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&line_height=28&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adwaithsanthoshh&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&line_height=28&include_all_commits=true)
 
 ![Languages Pie Chart](https://quickchart.io/chart?c={type:'pie',data:{labels:['Python','JavaScript','HTML5','C++','CSS3','C'],datasets:[{data:[35,25,15,10,8,7]}]},options:{plugins:{legend:{labels:{color:'white',font:{size:14}}}}}})
 
