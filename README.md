@@ -17,7 +17,6 @@ Currently diving deep into electronics, AI tools, and web development while buil
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adwaith-santhosh)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adwaithsanthosh)  
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_HANDLE)
 
 ---
@@ -79,8 +78,7 @@ Currently diving deep into electronics, AI tools, and web development while buil
 
 ## 📌 Current Goals
 - 🔹 Build an end-to-end **Text-to-Speech web app**  
-- 🔹 Create a **Django-based project tracker**  
-- 🔹 Finish my EEE lab & course projects  
+- 🔹 Create a **Django-based project tracker**   
 - 🔹 Share more of my learning journey on GitHub  
 
 ---
