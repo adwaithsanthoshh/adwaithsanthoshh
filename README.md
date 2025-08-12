@@ -62,13 +62,18 @@ Currently diving deep into electronics, AI tools, and web development while buil
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adwaithsanthosh&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adwaithsanthosh&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=demo-user&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&custom_title=Adwaith's%20GitHub%20Stats&line_height=28&include_all_commits=true&hide_rank=false)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=demo-user&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=Most%20Used%20Languages&card_width=350)
+
+
 
 ---
 
 ## 🐍 Contribution Graph Snake
-![snake gif](https://github.com/adwaithsanthosh/adwaithsanthosh/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+
 
 ---
 
