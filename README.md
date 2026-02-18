@@ -61,15 +61,12 @@ Currently diving deep into electronics, AI tools, and web development while buil
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adwaithsanthoshh&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&line_height=28&include_all_commits=true)
-
-
-
+![Language Chart](./language_chart.png)
 
 
 ---
 
-## 🐍 Contribution Graph Snake
+##  Contribution Graph Snake
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 
